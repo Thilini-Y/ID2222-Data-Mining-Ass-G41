@@ -1,0 +1,1 @@
+The BlueCore3-Multimedia includes a 16-bit stereo audio CODEC with dual ADC and DAC for stereo audio.
