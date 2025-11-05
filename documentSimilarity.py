@@ -128,6 +128,6 @@ class DocumentSimilarity:
 
 
 if __name__ == "__main__":
-    base_path = "Resources/CSV_Data"
+    base_path = "Resources/Total_Data"
     app = DocumentSimilarity(k=9, num_perm=100)
-    app.run(base_path, num_files=100)
+    app.run(base_path, num_files=10)
