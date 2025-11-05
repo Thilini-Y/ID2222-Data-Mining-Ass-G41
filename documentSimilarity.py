@@ -4,13 +4,16 @@ import random
 from pyspark.sql import SparkSession
 
 from compareSets import CompareSets
+from compareSignature import CompareSignatures
+from minHashing import MinHashing
 from shingling import Shingling
 
 
 class DocumentSimilarity:
-    def __init__(self, k=9):
+    def __init__(self, k=9, num_perm=100):
         self.k = k
         self.shingler = Shingling(k)
+        self.minhasher = MinHashing(num_perm=num_perm)
         self.spark = SparkSession.builder \
             .appName('DocumentSimilarity') \
             .master('local[*]') \
@@ -66,7 +69,7 @@ class DocumentSimilarity:
         low_similarity = []
 
         # compute Jaccard similarity
-        print('\nJaccard Similarity')
+        print('\n**********Jaccard Similarity**********')
         for (file1, s1), (file2, s2) in itertools.combinations(documents, 2):
             jaccard_similarity = CompareSets.jaccard_similarity(s1, s2)
             print_data = f'{file1} <-> {file2} Jaccard similarity = {jaccard_similarity:.4f}'
@@ -83,10 +86,38 @@ class DocumentSimilarity:
         for j in low_similarity:
             print(j)
 
+
+        # Compute MinHash signatures using Spark
+        print('\n**********Computing Similarity using MinHash**********')
+        signatures_rdd = self.minhasher.compute_signatures_rdd(shingled_rdd)
+        doc_signatures = dict(signatures_rdd.collect())
+        print(f'Generated signatures for total documents: {len(doc_signatures)}')
+
+        # Compare similarities
+        print('\n**********Compare Similarities using signatures**********')
+        high_estimated = []
+        low_estimated = []
+        for (file_1, signature_1), (file_2, signature_2) in itertools.combinations(doc_signatures.items(), 2):
+            compared_similarity = CompareSignatures.similarity(signature_1, signature_2)
+            print_data = f'{file_1} <-> {file_2}  = {compared_similarity:.4f}'
+            if compared_similarity >= 0.8:
+                high_estimated.append(print_data)
+            else:
+                low_estimated.append(print_data)
+
+        print('\n----- High Estimated Similarity -----')
+        for i in high_estimated:
+            print(i)
+
+        print('\n----- Low Estimated Similarity -----')
+        for j in low_estimated:
+            print(j)
+
+
         self.spark.stop()
 
 
 if __name__ == '__main__':
     base_path = "Resources/Dataset"
-    app = DocumentSimilarity(k=9)
+    app = DocumentSimilarity(k=9, num_perm=100)
     app.run(base_path, num_files=10)
