@@ -1,0 +1,261 @@
+The economy, nonetheless, has yet to exhibit sustainable growth.	But the economy hasn't shown signs of sustainable growth.
+main-news	MSRpar	2012train	0698	2.800	The commission estimated California lost $937 million to corporate tax shelters in 2001.	California's lost tax revenue was mostly due to international corporate tax shelters.
+main-news	MSRpar	2012train	0699	1.400	In other markets, U.S. Treasuries started off on Monday weaker, as stocks rose early.	In other markets, U.S. Treasuries inched higher as declining stocks raised the appeal of safe-haven debt.
+main-news	MSRpar	2012train	0711	0.750	The technology-laced Nasdaq Composite Index .IXIC was down 25.36 points, or 1.53 percent, at 1,628.26.	The broader Standard & Poor's 500 Index .SPX gave up 11.91 points, or 1.19 percent, at 986.60.
+main-news	MSRpar	2012train	0717	3.667	The Pentagon had hoped to retain control of the postwar effort, so the decision is a victory for Secretary of State Colin L. Powell.	The Pentagon had hoped to retain control of the postwar effort, so the decision was seen by some insiders as a victory for Powell and the State Department.
+main-news	MSRpar	2012train	0728	3.400	Prof Sally Baldwin, 63, from York, fell into a cavity which opened up when the structure collapsed at Tiburtina station, Italian railway officials said.	Sally Baldwin, from York, was killed instantly when a walkway collapsed and she fell into the machinery at Tiburtina station.
+main-news	MSRpar	2012train	0729	3.400	It calls for the agency to plan an independent safety and engineering organization.	The agency has yet to fully formulate a strategy for the creation of an independent engineering technical authority.
+main-news	MSRpar	2012train	0730	3.857	WorldCom's accounting problems came to light early last year, and the company filed for bankruptcy in July 2002, citing massive accounting irregularities.	WorldCom's financial troubles came to light last year and the company subsequently filed for bankruptcy in July, 2002.
+main-news	MSRpar	2012train	0740	3.000	The study also found that consumer goods advertisers continued to spend the most dollars online, representing 35% of all Web advertising.	In the second quarter, consumer advertisers continued to spend the most online, slightly increasing their share.
+main-news	MSRpar	2012train	0746	3.500	Kiernan testified that Seifert had received a gunshot wound to the back.	Seifert, he testified, had a gunshot wound in the back.
+main-news	MSRpar	2012train	0749	3.250	It is priced at $5,995 for an unlimited number of users tapping into the single processor, or $195 per user with a minimum of five users.	It is priced at $5,995 or $195 on a per user licensing plan with a minimum of five users.
+main-news	headlines	2013	0010	1.4	Tropical storm heads for pass along Honduras coast	Tropical storm warnings for Southeast coast
+main-news	headlines	2013	0019	0.75	Suicide bomber kills 12 in Nigeria church	Suicide bomber kills 21 in NW Pakistan
+main-news	headlines	2013	0028	3.4	US says ready to help blind Chinese activist	U.S. ready to help Chinese activist: official
+main-news	headlines	2013	0034	4.8	Gazans fire 2 rockets into Israel; no injuries	2 Gaza rockets hit Israel; no injuries
+main-news	headlines	2013	0052	0.4	Berri says ready to help launch national unity government	The perception of Spain has changed dramatically with this government
+main-news	headlines	2013	0054	1.8	13 dead in Iraq bomb attacks	16 killed in north Iraq attacks
+main-news	headlines	2013	0061	2.4	Hurricane Isaac Moves Inland After Landfall	Hurricane Isaac batters US coast near New Orleans
+main-news	headlines	2013	0065	1.6	Nigeria mourns over 193 people killed in plane crash	Nigeria opens probe into deadly air crash
+main-news	headlines	2013	0082	3.2	ICC jails Congolese warlord for 14 years over child soldiers	Congolese warlord sentenced to 14 years in landmark case - video
+main-news	headlines	2013	0103	0.4	7 soldiers killed, 56 injured in PKK attack in eastern Turkey	3 killed, 14 injured in attacks in Iraq
+main-news	headlines	2013	0116	4	Schiphol airport partly evacuated after bomb threat	Schiphol airport evacuated due to bomb threat
+main-news	headlines	2013	0132	0.8	MIER ups 2012 growth forecast to 4.2pc	CMIE cuts 2012-13 growth forecast to 6.3%
+main-news	headlines	2013	0166	1.4	Activists: Syrian troops storm Damascus suburb	Activist says Syrian citizen cameraman killed in Homs
+main-news	headlines	2013	0190	1.8	Tehran: EU sanctions won't force Iran into nuclear talks	Low expectations for Iran nuclear talks
+main-news	headlines	2013	0191	2.2	Portugal Drownings: UK Girl And Grandad Named	British Girl And Grandad Drown In Portugal
+main-news	headlines	2013	0216	3.2	Iran, powers set for high-stakes nuclear talks	U.S., Iran prepare for Istanbul nuclear talks
+main-news	headlines	2013	0218	1.2	Syrian forces kill teen in Aleppo protests	Syrian forces kill 3 protesters in Damascus-activists
+main-news	headlines	2013	0251	1.25	Jaguar to create 1,100 jobs in UK	Royal Mail to create 1,000 jobs
+main-news	headlines	2013	0259	4.2	Iraq searches Syria bound Iran plane: officials	Iraq searches Syrian-bound Iranian plane
+main-news	headlines	2013	0268	2.6	Syria fighting rages as Russia urges Western re-think	Syria fighting rages in capital, Russia pressed
+main-news	headlines	2013	0270	3.6	Erdogan's party submits plan for Turkish presidency	Erdogan's party aims for Turkish presidency
+main-news	headlines	2013	0285	0.4	Publisher acquitted in privacy case	PBS publishes new guidelines on impartiality
+main-news	headlines	2013	0291	0	Samsung overtakes Nokia in phones	Charges over dog attack on police
+main-news	headlines	2013	0293	5	Gu Kailai murder trial ends in China	Gu Kailai's Murder Trial Ends in China
+main-news	headlines	2013	0305	4.4	Not 'hiding the ball' on Russia: Obama	Obama says he's not 'hiding the ball' on Russia
+main-news	headlines	2013	0309	4.8	England captain Andrew Strauss retires from professional cricket	England captain Strauss retires from cricket
+main-news	headlines	2013	0316	3.6	China backs Sri Lanka on UN resolution	War crimes: China backs Lanka on UN resolution
+main-news	headlines	2013	0325	3.8	Ton up: Tendulkar reaches 100th international hundred	Sachin Tendulkar's reaches 100 centuries - in pictures
+main-news	headlines	2013	0335	0.2	Conspiracy against me - Lance	Day begins amid panic
+main-news	headlines	2013	0367	3.8	Mursi takes oath of office, becomes Egyptian president	Morsi to take oath as first Egypt civilian president
+main-news	headlines	2013	0373	2.2	Syrian opposition pleads for criminal court action	Syrian opposition leader criticizes U.S.
+main-news	headlines	2013	0375	4	Sunderland 2-2 Bolton: Davies double gets Trotters a point but they stay in bottom three	Sunderland 2-2 Bolton: Davies in at the double
+main-news	headlines	2013	0379	2.6	Syrian forces shell towns, clash with rebels	Syrian forces and rebels clash in coastal province
+main-news	headlines	2013	0390	0.6	Bahraini protesters and police clash after funeral	Greek protesters, police clash as bailout deal in limbo
+main-news	headlines	2013	0405	4.4	Apple buying security firm AuthenTec for $356 million	News Summary: Apple buying AuthenTec for $356M
+main-news	headlines	2013	0417	4	Trade newspaper Variety up for sale	Hollywood trade publication Variety put up for sale
+main-news	headlines	2013	0423	0.8	Australians flee homes amid floods	Australian speaker steps aside
+main-news	headlines	2013	0443	2	Germany dodges recession with growth in first quarter	Eurozone avoids recession in Q1, thanks to Germany
+main-news	headlines	2013	0452	1.4	Asian stocks rise after Greek vote eases fears	Oil rises after Greek election result
+main-news	headlines	2013	0459	3	British soldier killed in southern Afghanistan	Two British soldiers killed in Afghanistan
+main-news	headlines	2013	0463	0.6	Obama silent on China dissident	Obama to visit Korean DMZ
+main-news	headlines	2013	0472	2	Suicide Bomber Kills 6 in Afghan Capital	Suicide bomber kills 37 at mosque in Afghanistan
+main-news	headlines	2013	0480	4.6	Denver shooting: Police to detonate devices in suspect's home	Police to detonate devices in Colorado shooting suspect's home
+main-news	headlines	2013	0485	1.4	Syria hands over bodies of journalists	Syria TV says govt troops free captive journalists
+main-news	headlines	2013	0506	4.5	Coroner: Whitney Houston died in bathtub	Coroner confirms Whitney Houston found in bathtub
+main-news	headlines	2013	0510	0.8	Japan suffers severe flooding - in pictures	Oklahoma wildfires destroy homes - in pictures
+main-news	headlines	2013	0513	0	Japan to deport Chinese held over island landing	German court weighs delay to euro fund ruling
+main-news	headlines	2013	0516	4.4	Some Syria violence amounts to civil war-Red Cross	Some Syria violence qualifies as civil war -Red Cross
+main-news	headlines	2013	0529	1	Romney Wins Nevada Caucus	Romney shifts focus to Santorum ahead caucuses
+main-news	headlines	2013	0546	3.4	Apple iPad mini makes debut	Apple iPad mini makes debut in Asia
+main-news	headlines	2013	0559	0.6	Hamas hangs three Gaza prisoners	Myanmar announces release of prisoners
+main-news	headlines	2013	0562	1	East Timor votes in presidential election	Venezuelans urged to vote in presidential election
+main-news	headlines	2013	0573	2.8	Sunday Times journalist Marie Colvin killed in Syria	Sunday Times journalist, French photographer 'killed in Syria'
+main-news	headlines	2013	0574	1.6	KL shares higher at mid-afternoon	KL shares lower at mid-morning
+main-news	headlines	2013	0575	2.4	Chicago teachers strike in bitter contract dispute	Chicago teachers union delegates could end strike
+main-news	headlines	2013	0595	0.8	Israel to free Palestinian hunger striker	Israel asks US for arms that could aid Iran strike
+main-news	headlines	2013	0608	4.4	Not a good beginning: Hollande's plane hit by lightning en route to Berlin	French President Francois Hollande's plane hit by lightning en route to Berlin
+main-news	headlines	2013	0628	4.8	Afghan Parliament Votes to Oust Key Ministers	Afghan parliament votes to remove key ministers
+main-news	headlines	2013	0642	3.4	Attacker in Afghan uniform kills 2 NATO troops	Man in Afghan army uniform kills NATO soldier
+main-news	headlines	2013	0644	3.8	Cheap generics no panacea for India’s poorest	Cheap cancer drugs no cure for India's poorest
+main-news	headlines	2013	0653	4.5	'Arrest warrant' for Maldives ex-president	Maldives court issues arrest warrant for former president
+main-news	headlines	2013	0655	2.2	HRW: Jordan turning away Palestinian refugees from Syria	Report: Jordan biased over Palestinians from Syria
+main-news	headlines	2013	0672	4	Syrian forces overrun rebel stronghold	Syria army takes northern rebel stronghold
+main-news	headlines	2013	0675	1	Chinese stocks close higher midday Friday	Chinese stocks open lower Friday
+main-news	headlines	2013	0681	2.6	Sandy slams into Northeast; at least 18 dead, 7.4M without power	Eastern U.S. storms leave 2 dead in Va., 2 million without power
+main-news	headlines	2013	0684	1	Putin Declares Victory in Russia Presidential Vote	Complaints in Russian election mount
+main-news	headlines	2013	0692	1.4	Supreme Court to Hear Voting Rights Act Case	Supreme Court to hear corporate human rights case
+main-news	headlines	2013	0699	4	Libya postpones assembly election to July 7	Libya postpones landmark election to July 7
+main-news	headlines	2013	0704	4.2	London 2012 Olympics Opening Ceremony 'to feature a green and pleasant land'	London 2012 Olympics: Opening Ceremony to be a 'green and pleasant land', says Danny Boyle
+main-news	headlines	2013	0714	3.8	Pakistan blocks Twitter over anti-Islamic material	Pakistan blocks Twitter over 'blasphemy'
+main-news	headlines	2013	0715	3.8	Annan to visit Syrian refugees in Turkey Tuesday	Annan to visit Syrian refugees in Turkey before Iran
+main-news	headlines	2013	0748	2.4	Pakistani PM shocked at avalanche trapping army personnel	Pakistan avalanche: rescuers search for buried soldiers
+main-news	headlines	2014	0001	0.4	Opposition leaders emerge to commemorate Cambodian workers' deaths	Cambodia opposition leaders summoned to court
+main-news	headlines	2014	0044	2.2	Mali due to vote for president	Mali Counts Votes After Presidential Runoff
+main-news	headlines	2014	0051	4.4	Pussy Riot member Alyokhina released from jail in Russia	Pussy Riot member Maria Alyokhina freed from jail
+main-news	headlines	2014	0053	3.6	Asiana jet crash lands at San Francisco airport	Plane crash lands at San Francisco airport
+main-news	headlines	2014	0067	2.2	Blizzard hammers U.S. Northeast, five dead, 700,000 lose power	Blizzard wallops US Northeast, closes roads
+main-news	headlines	2014	0072	5	2 French Journalists Killed in Mali	Two French journalists killed in Mali
+main-news	headlines	2014	0074	4.2	Vehicles ablaze in collapsed Japan tunnel	Vehicles 'left burning' as smoke emits from Japan tunnel
+main-news	headlines	2014	0099	1.8	China stocks close lower on Friday	China stocks close higher on Wednesday
+main-news	headlines	2014	0104	1.4	Mayor says 14 dead in Texas fertilizer plant blast	Rescuers search for survivors of Texas fertiliser plant blast
+main-news	headlines	2014	0115	2.2	CBN reiterates plan to phase out polymer notes	Nigeria announces plans to change polymer Naira notes
+main-news	headlines	2014	0122	3.8	U.S. files espionage charges agains NSA leaker	US files espionage charges against Snowden over leaks
+main-news	headlines	2014	0126	4.2	Chinese general's son gets 10 years jail for rape	Chinese general’s son gets 10 years’ jail for gang-rape
+main-news	headlines	2014	0163	2	Where's Rusty? Red panda vanishes from National Zoo	Missing red panda returned safely to National Zoo
+main-news	headlines	2014	0174	5	Queen Beatrix of The Netherlands to abdicate for son	Queen Beatrix of the Netherlands abdicates in favour of son
+main-news	headlines	2014	0226	3.8	U.S. dumps bombs at Great Barrier Reef	U.S. military jettisons bombs near Australia's Great Barrier Reef
+main-news	headlines	2014	0227	1.2	38 Taliban militants killed in Afghanistan	Taliban attacks US base in Afghanistan
+main-news	headlines	2014	0244	2.2	Most powerful typhoon of 2013 hits the Philippines	23 Missing as Typhoon Utor Hits Philippines
+main-news	headlines	2014	0247	1.4	Calls for more Egypt protests	Death toll from Egypt protests rises to 49
+main-news	headlines	2014	0271	2.4	US government 'on the edge of shutdown'	Obama rejects GOP offer to ease shutdown
+main-news	headlines	2014	0303	3	123 killed in fighting in northern Syria	Many killed in Syrian air strike
+main-news	headlines	2014	0309	3.2	Critics say Putin’s security restrictions violate rights	Putin's security decree for Sochi draws ire of critics
+main-news	headlines	2014	0313	3.8	Egypt braces for more protests, prays for calm	Egypt braces for more protests over Morsi, prays for calm
+main-news	headlines	2014	0315	3	Morsi supporters protest in Egypt	Morsi backers defiant in face of Egypt govt threat
+main-news	headlines	2014	0321	2	Stocks rise in early trading	US stocks ease in choppy trading
+main-news	headlines	2014	0326	2.8	Bangladesh building collapse death toll hits 540: army	Bangladesh building-collapse toll tops 600
+main-news	headlines	2014	0329	4	Defiant Mugabe sworn in for seventh term blasts 'vile' West	Mugabe sworn in for another term
+main-news	headlines	2014	0344	4.6	Nelson Mandela in Hospital for Tests	South Africa: Mandela in hospital for tests
+main-news	headlines	2014	0345	4	Iran, six global powers sign landmark nuclear deal	Iran, world powers agree nuclear deal
+main-news	headlines	2014	0382	2.2	Algeria Mounts Military Operation to Rescue Al Qaeda Hostages	Algeria mulls international force for hostages
+main-news	headlines	2014	0386	3.4	Delhi gang rape victim dies in Singapore hospital	Delhi gang rape victim flown to Singapore hospital
+main-news	headlines	2014	0387	3.4	Birth Control Linked With Higher Glaucoma Risk	Contraceptive pill 'doubles glaucoma risk'
+main-news	headlines	2014	0399	3.4	Malaysia sets May 5 as date for closely contested election	Malaysia sets date for landmark elections
+main-news	headlines	2014	0409	4.2	Dhawan smashes India to big win over South Africa	Dhawan ton sets up India Trophy win over South Africa
+main-news	headlines	2014	0415	3.8	N Korea postpones family reunions	North Korea postpones war-torn family unions
+main-news	headlines	2014	0423	2.6	Syria rejects US, UK chemical arms claims	US suspects Syria used chemical weapons
+main-news	headlines	2014	0428	2.2	Egypt arrests Muslim Brotherhood Supreme Guide	Egypt bans Muslim Brotherhood group
+main-news	headlines	2014	0431	0.4	Gunmen kill nine people in northwest Pakistan	Gunmen kill 3 policemen in Iraq
+main-news	headlines	2014	0444	1.8	News summary for March 11	News summary for January 14
+main-news	headlines	2014	0454	1	Hawaii passes gay marriage bill	US Senate passes gay workers bill
+main-news	headlines	2014	0463	1.6	Syrian Opposition Urges EU to Send Arms to Rebels	Syrian opposition meets to choose interim PM
+main-news	headlines	2014	0469	1.6	Funeral of Oscar Pistorius' girlfriend Reeva Steenkamp takes place	Oscar Pistorius 'shot Steenkamp in bathroom'
+main-news	headlines	2014	0473	2.6	Two firefighters killed in New York ambush	Two New York firefighters in guarded condition after deadly ambush
+main-news	headlines	2014	0476	2.6	Ten rescued off Waterford, Dublin coasts	Six rescued after boat capsizes in Dublin Bay
+main-news	headlines	2014	0487	0	Mars rover collects first bedrock sample	Wawrinka reaches first grand slam final
+main-news	headlines	2014	0492	4.4	Ankeet Chavan granted conditional bail for marriage	Ankeet Chavan granted bail to get married
+main-news	headlines	2014	0503	3.4	Man who battled Fukushima disaster dies of cancer	Former plant chief who battled Fukushima disaster dies of cancer
+main-news	headlines	2014	0507	0.6	Iran says nuclear talks to resume next month	Iran says capable of jamming foes' communication systems
+main-news	headlines	2014	0514	0	US authorities charge man in ricin probe	South African police arrest 50 in farm protest
+main-news	headlines	2014	0517	4.4	25 bodies found at raided Algerian gas plant	25 more bodies found at Algerian gas plant
+main-news	headlines	2014	0570	3.6	Ferrer cruises into Australian Open quarter-finals	Ferrer beats Nishikori to advance to Australian Open quarterfinals
+main-news	headlines	2014	0571	3	UBS settles US mortgage lawsuit	UBS settles US mortgage lawsuit and takes £600m charge
+main-news	headlines	2014	0574	3.8	North, South Korea agree to talks	North, South Korea hold rare talks
+main-news	headlines	2014	0590	2.2	Gunmen kill female politician in Pakistan	Gunmen kill 5 female teachers in Pakistan
+main-news	headlines	2014	0595	0	Kardashian Divorce Ready for Trial	Hard-hit hotels ready for price war
+main-news	headlines	2014	0608	4.6	New Zealand set to legalise gay marriage	New Zealand votes to legalise same-sex marriage
+main-news	headlines	2014	0637	1.6	Syria regime claims evacuation of 5,000 near Damascus	Syria army continues mop-up operations near Damascus
+main-news	headlines	2014	0644	4.6	Nobel Prize winning author Doris Lessing dies	Nobel laureate Doris Lessing dies at 94
+main-news	headlines	2014	0655	4.2	Internet, phone service restored in Syrian capital	Internet service resumes in Syria
+main-news	headlines	2014	0657	3.8	Syrian PM Survives Bomb Attack	Syrian PM survives bomb attack in capital
+main-news	headlines	2014	0666	3	US stock futures edge up ahead of jobs report	Stock futures edge higher, all eyes on Fed
+main-news	headlines	2014	0684	1	Bomb blast kills 10 in southwest Pakistan	Major quake kills 39 in Pakistan
+main-news	headlines	2014	0687	3.6	David Cameron puts Sri Lanka on notice over war crime allegations	Sri Lanka warned over war crime allegations
+main-news	headlines	2014	0689	0.8	Morsi supporters clash with riot police in Cairo	Protesters clash with riot police in Kiev
+main-news	headlines	2014	0699	2.2	Afghan police kill 5 Taliban fighters	5 Taliban, 5 Afghan police killed in ambushes
+main-news	headlines	2014	0708	4.2	Gunmen kidnap airline pilots in Lebanon	Gunmen kidnap 2 Turkish Airlines pilots in Lebanon
+main-news	headlines	2014	0738	4.2	Kurdish rebels to withdraw from Turkey in March: report	Kurdish rebels to withdraw from Turkey
+main-news	headlines	2014	0742	3.4	Japan revises GDP growth to annual 1.1 pct in Q3	Japan’s GDP growth downgraded to annual 1.1%
+main-news	headlines	2015	0001	1.30	The foundations of South Africa are built on Nelson Mandela's memory	Australian politicians lament over Nelson Mandela's death
+main-news	headlines	2015	0006	1.20	Ukraine protest leaders name ministers, Russian troops on alert	Ukraine Refuses to Act Against Russian 'Provocation'
+main-news	headlines	2015	0011	3.60	Malala, Snowden, Belarusians Short-Listed For Sakharov Prize	Fugitive Snowden short-listed for European rights prize
+main-news	headlines	2015	0041	3.20	ElBaradei to Become Egyptian PM	Liberal ElBaradei named Egypt PM, Islamists cry foul
+main-news	headlines	2015	0075	1.00	Taiwan's economy grows 2.27% in April-June quarter	China's economic growth rebounds to 7.8% in latest quarter
+main-news	headlines	2015	0085	3.00	Tamerlan Tsarnaev buried in Virginia	Boston bomb suspect buried in Virginia cemetery
+main-news	headlines	2015	0142	3.80	State Dept. issues wide travel alert, says terror attack possible	US issues global travel alert, cites al-Qaida threat
+main-news	headlines	2015	0151	1.60	Singapore stocks end up 0.11 pct	Singapore stocks end down 0.45%
+main-news	headlines	2015	0187	1.20	Russia warns Ukraine against EU deal	Rebels down Ukraine helicopters
+main-news	headlines	2015	0201	3.40	Hernandez double gives Mexico victory	Hernandez double gives Mexico victory over Japan
+main-news	headlines	2015	0210	0.40	China sacks top economic official	China FM hosts senior ASEAN officials
+main-news	headlines	2015	0225	4.80	Canada approves oil pipeline to the Pacific Coast	Canadian government approves controversial oil pipeline to Pacific
+main-news	headlines	2015	0228	0.00	Storm buries Northeast; 16 inches of snow in NJ	Forum urges stable relations for China, Japan
+main-news	headlines	2015	0243	0.40	Jamaican connection in Liverpool's win	Japan Election: Shinzo Abe Hails Landslide Win
+main-news	headlines	2015	0249	2.80	International weapons experts leave Syria, Obama to make statement	Weapons experts leave Syria, U.S. prepares attack
+main-news	headlines	2015	0275	3.60	Southwest jet hit nose first	Southwest Jet's Nose Gear Landed First
+main-news	headlines	2015	0302	2.00	Twelve killed in bomb blast on Pakistani train	Gunmen kill nine in southwest Pakistan: Police
+main-news	headlines	2015	0323	4.00	Powerful quake strikes off eastern Indonesia	6.6-mag quake strikes off eastern Indonesia
+main-news	headlines	2015	0387	3.80	Obama lashes North Korea as pariah state	Obama lashes North Korea as weak ‚Äėpariah state‚Äô
+main-news	headlines	2015	0390	1.80	Colombia strike three times	Colombia too slick for Greece
+main-news	headlines	2015	0447	0.20	Lord Palumbo offers hope for a relationship with his son James	Oscar Pistorius sent for mental evaluation: what will it mean?
+main-news	headlines	2015	0472	2.00	Deputy speaker faces new sex claims	Deputy Speaker Nigel Evans Re-Arrested
+main-news	headlines	2015	0477	5.00	CIA chief visits Israel for Syria talks	CIA chief in Israel to discuss situation in Syria
+main-news	headlines	2015	0526	0.00	Suicide bomb kills 4, injures 13 in Pakistan	Twitter blocks content in Pakistan
+main-news	headlines	2015	0527	3.60	Ukraine rebels 'flee eastern stronghold'	Ukraine Claims Rebels Flushed from Main Stronghold
+main-news	headlines	2015	0570	3.60	4 foreigners among 9 killed in Kabul hotel attack	Foreigners among dead in Kabul hotel attack
+main-news	headlines	2015	0595	3.40	Firefighters battle forest fire in SW China	Firefighters battling scrub fire in Hokianga
+main-news	headlines	2015	0625	0.20	Hassan Rouhani wins Iran's presidential election	Maduro wins Venezuelan presidential vote
+main-news	headlines	2015	0629	4.40	Woman remanded over child's death A woman has been remanded in custody charged with murder after an eight-year-old girl was found dead in a block of flats.	Mother held over daughter's death A mother has been remanded in custody charged with murder after her eight-year-old daughter was found dead in a block of flats.
+main-news	headlines	2015	0644	0.60	Red-shirt leader calls not to oppose army	Oil rig spat: Beijing not to send army
+main-news	headlines	2015	0647	0.40	Russia praises idea to render rights assistance to Ukraine	Russia detains suspected Islamist militants in Moscow raid
+main-news	headlines	2015	0653	4.60	Georgian PM's ally to become president - exit poll	Ally of Georgia's billionaire PM to be president -exit polls
+main-news	headlines	2015	0690	2.60	Car bombs kill at least 16 in Iraqi capital	Car bombs kill at least 47 in Baghdad area
+main-news	headlines	2015	0695	2.80	Saudi Arabia gets a seat at the UN Security Council	Saudi Arabia rejects seat on UN Security Council
+main-news	headlines	2015	0701	3.20	US drone strike kills 11 in Pakistan	US drone kills 16 in Pakistan
+main-news	headlines	2015	0749	2.00	20 killed in bomb attack at Pakistani base	8 soldiers killed in bomb attack in NW Pakistan
+main-news	headlines	2015	0766	1.80	Shenzhen stock indices close higher Monday	Shenzhen stock indices close lower -- Oct. 31
+main-news	headlines	2015	0783	0.40	Prince Harry pays tribute to US war dead	US presidents pay tribute to Mandela
+main-news	headlines	2015	0810	1.40	15 dead in Iraq attacks, bomb at football pitch	46 dead in Iraq attack blitz
+main-news	headlines	2015	0824	1.20	Myanmar arrests 44 over sectarian violence	Ban Warns Syria Strikes Could Worsen Sectarian Violence
+main-news	headlines	2015	0849	2.60	Iran official: US visa denial to Iranian envoy will not affect nuke talks	Iranian negotiator upbeat about latest nuclear talks
+main-news	headlines	2015	0871	2.40	Gov'ts, groups pledge millions for typhoon relief	Canada promises $5-million in typhoon relief
+main-news	headlines	2015	0877	4.20	Greece suspends state broadcaster	Greece to close state broadcaster to save money
+main-news	headlines	2015	0882	5.00	Guatemalan court finds former dictator guilty of genocide	Guatemala's former leader found guilty of genocide
+main-news	headlines	2015	0920	0.40	Beaten Florida teen released in Israel	Palestinian teen dies of wounds sustained in Israeli shooting
+main-news	headlines	2015	0939	1.60	Iran, sextet to resume expert talks	Iran upbeat on 'useful' expert-level nuke talks
+main-news	headlines	2015	0943	3.20	Bangladesh collapse search over; death toll 1,127	Bangladesh collapse deaths top 620
+main-news	headlines	2015	1008	4.40	Neymar powers Brazil into last 16	Neymar powers Brazil into World Cup last 16
+main-news	headlines	2015	1009	4.80	Ukraine to implement unilateral ceasefire	Ukraine offers unilateral ceasefire
+main-news	headlines	2015	1015	5.00	Stones add second Hyde Park concert	Rolling Stones add second Hyde Park date
+main-news	headlines	2015	1019	2.67	What the Papers Say, Aug. 19, 2013	What the Papers Say, Dec. 30, 2013
+main-news	headlines	2015	1023	0.00	5 nations meet on haze	Putin's marriage at an end
+main-news	headlines	2015	1083	5.00	Car bomb at Swedish consulate in Libya's Benghazi, no casualties	Car Bomb Hits Swedish Consulate in Benghazi, None Hurt
+main-news	headlines	2015	1102	3.00	Bomber strikes near Pakistan army HQ	Bombing Outside Restaurant in Pakistan Wounds 15
+main-news	headlines	2015	1123	4.80	Croatia begins countdown to historic EU entry	Croatia countdowns to joining EU
+main-news	headlines	2015	1143	2.40	Suicide attack kills eight in Baghdad	Suicide attacks kill 24 people in Baghdad
+main-news	headlines	2015	1150	5.00	On War Criminals and Heroes: The Whitewashing of Ariel Sharon ŔÄ	On war criminals and heroes: The whitewashing of Ariel Sharon
+main-news	headlines	2015	1153	4.80	Rogers, Videotron extend reach with network-sharing deal	Rogers, Videotron reach network-sharing, spectrum deal
+main-news	headlines	2015	1157	5.00	Prominent AIDS researchers killed in Malaysian plane crash	Top AIDS Researcher Killed in Malaysia Plane Crash
+main-news	headlines	2015	1205	3.20	Israel Forces Kill 2 Palestinian Militants	Israeli army kills Palestinian militant in raid
+main-news	headlines	2015	1207	1.20	Death toll 'rises to 17' after typhoon strikes Japan	Death Toll Rises to 84 in Pakistan Floods
+main-news	headlines	2015	1223	5.00	Protests continue in tense Ukraine capital	Protests Continue In Ukraine's Capital
+main-news	headlines	2015	1229	4.60	Two French journalists killed after Mali kidnapping	Two French journalists abducted, killed in Northern Mali
+main-news	headlines	2015	1231	2.00	Headlines in major Iranian newspapers on Dec 14	Headlines in major Iranian newspapers on July 29
+main-news	headlines	2015	1233	1.80	Iran warns of spillover of possible war on Syria	Iranian Delegation Heads to Lebanon, Syria
+main-news	headlines	2015	1242	3.00	Former Pakistan President Pervez Musharraf arrested again	Former Pakistan military ruler Pervez Musharraf granted bail
+main-news	headlines	2015	1263	3.80	US drone strike 'kills 4 militants in Pakistan'	US drone strike kills 10 in Pakistan
+main-news	headlines	2015	1271	4.00	UK's Ex-Premier Margaret Thatcher Dies At 87	Former British PM Margaret Thatcher dies
+main-news	headlines	2015	1303	4.80	Polar bear DNA 'may help fight obesity'	Polar bear study may boost fight against obesity
+main-news	headlines	2015	1311	4.80	'Fast &amp; Furious' star Paul Walker dies in car crash	Paul Walker dead: Fast and Furious star, 40, killed in car crash
+main-news	headlines	2015	1316	2.80	Air strike kills one man in Syria's Hama	US drone strike kills eleven in Pakistan
+main-news	headlines	2015	1321	2.60	Turkish PM, president clash over reply to protests	Turkish president calls for calm amid nationwide protests
+main-news	headlines	2015	1351	4.40	Strong new quake hits shattered Pak region	6.8 quake in shattered Pakistan region
+main-news	headlines	2015	1383	4.60	Floods in central Europe continue to create havoc	Europe floods continue to create havoc
+main-news	headlines	2015	1403	2.20	Luxembourg PM quits amid spying scandal	Luxembourg votes after spying row
+main-news	headlines	2015	1425	0.40	3 dead, 4 missing in central China construction accident	One dead, 8 missing in Vietnam boat accident
+main-news	headlines	2015	1438	0.40	US, China fail to paper over cracks in ties	China: Relief in focus as hope for missing fades
+main-news	headlines	2015	1454	1.40	World Cup live: France 0-0 Germany	World Cup live: Germany 0-0 Ghana
+main-news	headlines	2015	1456	4.80	Tokyo to host 2020 Games	Tokyo wins race to host 2020 Olympic Games
+main-news	headlines	2015	1463	4.40	France warns of extremists benefiting from Egypt violence	France fears extremists will benefit from Egypt violence
+main-news	headlines	2015	1482	5.00	British teenager killed in fall from Magaluf hotel	British teenager killed in Magaluf hotel fall
+main-news	headlines	2016	0135	2	US drone strike kills eight in Waziristan	US drone strike kills 11 in Pakistan	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	0152	5	Russian opposition leader under house arrest	Russian Opposition Leader Placed Under House Arrest	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	0154	5	Senate confirms Janet Yellen as chair of US Federal Reserve	Senate confirms Janet Yellen as next Federal Reserve Chair	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	0221	5	Israel confirms strike on Syria targeted weapons	Israel officials: Strike on Syria targeted weapons	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	0244	5	Jurors find Jodi Arias eligible for death penalty	Jodi Arias eligible for death penalty, jury says	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	0273	4	Twitter reports blocking in Venezuela	Twitter says images blocked in Venezuela	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	0321	3	Goa building collapse death toll touches 15	Indian building collapse deaths rise to 14	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	0325	3	Pak religious body endorses underage marriage	CII endorses underage marriage	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	0405	5	Mt Gox reveals 200,000 'forgotten' bitcoin haul	Mt Gox finds 200,000 'forgotten' bitcoins	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	0471	4	More than 100 injured in Texas plant blast	Hundreds believed injured in Texas fertiliser plant blast	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	0572	2	Redford touts Alberta economy ahead of vote on leadership	Redford addresses PC convention ahead of leadership review	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	0656	1	Obama holds out over Syria strikes	UK urges countries over Syria aid	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	0735	4	South Korean soldier reportedly flees after killing 5 comrades at border with North Korea	South Korean Soldier Kills Comrades And Flees	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	0775	0	Tycoon claims win in Ukraine and promises to seek future in EU	Polling stations open at Ukrainian presidential election	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	0788	2	Syria agrees to surrender chemical weapons	UK's Cameron: Syria, Russia must show chemical arms proposal is genuine	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	0904	5	AbbVie Sours on $55B Shire Deal After Tax Changes	AbbVie cools on $55bn Shire deal after US tax changes	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	0935	3	Militant attack from Afghanistan kills four in Upper Dir	Militant attack from Afghanistan kills FC soldier in Balochistan	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	1029	2	13 killed in Afgan terror attack	6 killed in Afghan capital mosque attack	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	1032	2	Rev's Early Reads: March 2	Rev.'s Early Reads: Sept. 3rd, 2015	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	1108	0	Pope canonizes 2 Palestinians	Sweden recognizes Palestinian state	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	1164	0	Funeral of Ian Paisley to take place in Belfast	Funeral of MH17 victim Liam Sweeney takes place in Newcastle	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	1170	1	Waba emerges new NLC president	Waiting for the next president	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	1181	1	5 US airstrikes target Islamic State fighters	Kurds see Turkey impeding Islamic State fight	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	1264	1	US Senate votes to advance Iran nuclear review bill	US scientists praise Iran nuclear deal	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	1298	2	Editors from around the world urge Turkey to protect media	Media freedom at stake as Turkey fights rebels	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	1354	0	Philippines, Canada pledge to further boost relations	Philippines saves 100 after ferry sinks	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	1360	1	Israel bars Palestinians from Jerusalem's Old City	Two-state solution between Palestinians, Israel pie in sky	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	1368	1	How much do you know about Secret Service?	Lawmakers from both sides express outrage at Secret Service	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	1420	0	Obama Struggles to Soothe Saudi Fears As Iran Talks Resume	Myanmar Struggles to Finalize Voter Lists for Sunday Polls	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
+main-news	headlines	2016	1432	0	South Korea declares end to MERS outbreak	North Korea Delegation Meets With South Korean Officials	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)
