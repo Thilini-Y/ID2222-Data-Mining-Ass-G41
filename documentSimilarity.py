@@ -5,6 +5,7 @@ from pyspark.sql import SparkSession
 
 from compareSets import CompareSets
 from compareSignature import CompareSignatures
+from lsh import LSH
 from minHashing import MinHashing
 from shingling import Shingling
 
@@ -114,10 +115,23 @@ class DocumentSimilarity:
             print(j)
 
 
+        print('\n**********Finding Candidate Pairs using LSH**********')
+        # Use same num_perm = bands * rows_per_band, so choose values accordingly
+        lsh = LSH(bands=40, rows_per_band=25)  # example: 20*50=1000 for your num_perm=1000
+        candidates = lsh.find_candidates(doc_signatures)
+
+        if not candidates:
+            print("No high-similarity candidate pairs detected by LSH.")
+        else:
+            print(f"Total LSH candidate pairs: {len(candidates)}")
+            for doc1, doc2 in candidates:
+                print(f"Candidate pair: {doc1} <-> {doc2}")
+
+
         self.spark.stop()
 
 
 if __name__ == '__main__':
     base_path = "Resources/Dataset"
-    app = DocumentSimilarity(k=9, num_perm=100)
+    app = DocumentSimilarity(k=9, num_perm=1000)
     app.run(base_path, num_files=10)
