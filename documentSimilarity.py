@@ -132,26 +132,12 @@ class DocumentSimilarity:
         # Step 6: Find candidate pairs using LSH (efficient filtering)
         print("\n**********Finding Candidate Pairs using LSH**********")
 
-        # Set similarity threshold
-        similarity_threshold = 0.8
-
-        # Find optimal bands and rows_per_band for target threshold
-        num_perm = self.minhasher.num_perm
-        optimal_bands, optimal_rows = LSH.find_optimal_bands_rows(
-            num_perm, similarity_threshold
-        )
-        print(
-            f"Optimal LSH config for threshold {similarity_threshold}: bands={optimal_bands}, rows_per_band={optimal_rows}"
-        )
-        print(
-            f"Expected threshold: {LSH.calculate_threshold(optimal_bands, optimal_rows):.4f}"
-        )
-
-        # Initialize LSH and find candidate pairs
-        lsh = LSH(bands=optimal_bands, rows_per_band=optimal_rows)
+        # Use same num_perm = bands * rows_per_band, so choose values accordingly
+        lsh = LSH(
+            bands=40, rows_per_band=25
+        )  # example: 20*50=1000 for your num_perm=1000
         candidates = lsh.find_candidates(doc_signatures)
 
-        # Display results
         if not candidates:
             print("No high-similarity candidate pairs detected by LSH.")
         else:

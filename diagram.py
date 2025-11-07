@@ -55,6 +55,8 @@ class Graphs:
     def run(self, folder_path: str, num_files_list: List[int]):
         jaccard_times = []
         minhash_times = []
+        last_similarity_pairs = []
+        last_num_files = None
 
         for num_files in sorted(set(num_files_list)):
             print(f"\n========== Running for {num_files} files ==========")
@@ -101,8 +103,24 @@ class Graphs:
             minhash_times.append(minhash_time)
             print(f"MinHash execution time: {minhash_time:.4f} seconds")
 
+            pairwise_pairs = []
+            for (file1, shingles1), (file2, shingles2) in itertools.combinations(
+                documents, 2
+            ):
+                jaccard_val = CompareSets.jaccard_similarity(shingles1, shingles2)
+                minhash_val = CompareSignatures.similarity(
+                    doc_signatures[file1], doc_signatures[file2]
+                )
+                pairwise_pairs.append((jaccard_val, minhash_val))
+
+            if pairwise_pairs:
+                last_similarity_pairs = pairwise_pairs
+                last_num_files = num_files
+
         self.spark.stop()
         self.plot_results(num_files_list, jaccard_times, minhash_times)
+        if last_similarity_pairs:
+            self.plot_similarity_comparison(last_similarity_pairs, last_num_files)
 
     def plot_results(self, num_files_list, jaccard_times, minhash_times):
         plt.figure(figsize=(12, 6.5))
@@ -164,6 +182,49 @@ class Graphs:
         out_fname = "./images/JaccardVsMinHashing.png"
         plt.savefig(out_fname, dpi=150, bbox_inches="tight")
         print(f"Jaccard vs MinHashing execution time graph saved to: {out_fname}")
+        plt.show()
+
+    def plot_similarity_comparison(self, pairwise_pairs, num_files):
+        if not pairwise_pairs:
+            print("No pairwise similarities available to plot.")
+            return
+
+        jaccard_values = [pair[0] for pair in pairwise_pairs]
+        minhash_values = [pair[1] for pair in pairwise_pairs]
+
+        plt.figure(figsize=(8, 6))
+        plt.scatter(
+            jaccard_values,
+            minhash_values,
+            alpha=0.6,
+            edgecolors="black",
+            linewidths=0.4,
+            label="Pairs",
+        )
+        plt.plot([0, 1], [0, 1], "k--", label="Ideal agreement")
+
+        title_suffix = f" ({num_files} documents)" if num_files else ""
+        plt.title(
+            "True Jaccard vs Estimated MinHash Similarity" + title_suffix,
+            fontsize=14,
+            fontweight="bold",
+        )
+        plt.xlabel("True Jaccard Similarity", fontsize=12)
+        plt.ylabel("Estimated MinHash Similarity", fontsize=12)
+        plt.xlim(0, 1)
+        plt.ylim(0, 1)
+        plt.legend()
+        plt.grid(True, linestyle="--", alpha=0.5)
+        plt.tight_layout()
+
+        os.makedirs("./images", exist_ok=True)
+        suffix = f"_{num_files}" if num_files else ""
+        out_fname = f"./images/Jaccard_vs_MinHashSimilarity{suffix}.png"
+        plt.savefig(out_fname, dpi=150, bbox_inches="tight")
+        print(
+            "True Jaccard vs estimated MinHash similarity scatter plot saved to: "
+            f"{out_fname}"
+        )
         plt.show()
 
 
