@@ -217,7 +217,7 @@ class Graphs:
         plt.grid(True, linestyle="--", alpha=0.5)
         plt.tight_layout()
 
-        os.makedirs("./images", exist_ok=True)
+        os.makedirs("images", exist_ok=True)
         suffix = f"_{num_files}" if num_files else ""
         out_fname = f"./images/Jaccard_vs_MinHashSimilarity{suffix}.png"
         plt.savefig(out_fname, dpi=150, bbox_inches="tight")
