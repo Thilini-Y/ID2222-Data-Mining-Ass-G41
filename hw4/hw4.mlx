@@ -1,0 +1,81 @@
+E = csvread('example1.dat'); % change this 
+
+% Extract columns
+col1 = E(:,1);
+col2 = E(:,2);
+
+if min(min(col1, col2)) == 0
+    col1 = col1 + 1;
+    col2 = col2 + 1;
+end
+
+max_ids = max(max(col1, col2));
+
+% Create Sparse Adjacency Matrix
+
+As = sparse(col1, col2, 1, max_ids, max_ids);
+As = As + As';        % Make it symmetric
+As = double(As > 0);  % Ensure weights are 1 (remove doubles)
+A = full(As);         % Convert to full matrix as per tutorial
+
+%% 2. CONSTRUCT LAPLACIAN (Required by NJW Paper)
+% The tutorial calculates eig(A), but Spectral Clustering requires L.
+% The NJW paper specifically uses the Normalized Laplacian.
+
+% Calculate Degree Matrix D (Diagonal matrix of column sums)
+degrees = sum(A, 2);
+D = diag(degrees);
+
+% Calculate Normalized Laplacian: L = D^(-1/2) * A * D^(-1/2)
+% This handles the scaling for nodes with very different degrees.
+D_inv_sqrt = diag(1 ./ sqrt(degrees));
+D_inv_sqrt(isinf(D_inv_sqrt)) = 0; % Handle disconnected nodes (div by zero)
+
+L = D_inv_sqrt * A * D_inv_sqrt;
+
+%% 3. EIGEN-DECOMPOSITION
+% We calculate eigenvectors of L, not A.
+[V, D_eig] = eig(L);
+
+% Extract eigenvalues from the diagonal matrix D_eig
+eigenvalues = diag(D_eig);
+
+% SORT EIGENVALUES
+% The NJW paper formulation looks for eigenvalues close to 1.
+% We sort descending (Largest to Smallest).
+[sorted_eigenvalues, index] = sort(eigenvalues, 'descend');
+sorted_eigenvectors = V(:, index);
+
+%% 4. WARM-UP: Find Number of Communities (K)
+% Plot the eigenvalues. Look for the "Eigengap".
+% In this formulation, you look for values staying near 1.0, then dropping.
+figure(1);
+plot(sorted_eigenvalues, 'o-');
+title('Eigenvalues of Normalized Laplacian');
+xlabel('Index'); ylabel('Eigenvalue');
+grid on;
+
+fprintf('Look at Figure 1. Count how many eigenvalues are close to 1 before the drop.\n');
+fprintf('That number is K.\n');
+
+%% 5. CLUSTERING (The NJW Algorithm)
+% Set K based on your observation (For example1.dat, likely 4)
+K = 4; 
+
+% Pick the top K eigenvectors
+X = sorted_eigenvectors(:, 1:K);
+
+% NORMALIZE ROWS (Crucial Step in NJW Paper)
+% Each row represents a node. Normalize it to have unit length.
+X_norm = sqrt(sum(X.^2, 2));
+Y = bsxfun(@rdivide, X, X_norm);
+
+% Run K-Means
+fprintf('Running K-Means...\n');
+[idx, C] = kmeans(Y, K, 'Replicates', 5);
+
+% VISUALIZE (Re-ordering the adjacency matrix)
+[~, sort_order] = sort(idx);
+figure(2);
+spy(A(sort_order, sort_order));
+title(sprintf('Adjacency Matrix Sorted by %d Clusters', K));
